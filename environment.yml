@@ -224,7 +224,7 @@ dependencies:
   - pytest-remotedata
   - python
   - python-dateutil
-  - pytorch-cpu
+  - pytorch
   - pytz
   - pywavelets
   - pyyaml
@@ -269,7 +269,7 @@ dependencies:
   - testpath
   - tk
   - toolz
-  - torchvision-cpu
+  - torchvision
   - tornado
   - traitlets
   - typing
@@ -294,4 +294,3 @@ dependencies:
   - ipyvolume
   - PIL
   - boto
-  - io
