@@ -297,5 +297,5 @@ dependencies:
   - ipyvolume
   - PIL
   - boto
-    - pip:
-     - pyecharts
+  - pip:
+    - pyecharts
