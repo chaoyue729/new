@@ -207,7 +207,6 @@ dependencies:
   - pycparser
   - pycrypto
   - pycurl
-  - pyecharts
   - pyflakes
   - pygments
   - pylint
@@ -287,7 +286,7 @@ dependencies:
   - xlsxwriter
   - xgboost
   - jieba
-  - kreas
+  - keras
   - xlwt
   - xz
   - yaml
@@ -298,3 +297,5 @@ dependencies:
   - ipyvolume
   - PIL
   - boto
+    - pip:
+     - pyecharts
