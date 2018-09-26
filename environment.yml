@@ -207,6 +207,7 @@ dependencies:
   - pycparser
   - pycrypto
   - pycurl
+  - pyecharts
   - pyflakes
   - pygments
   - pylint
@@ -284,6 +285,9 @@ dependencies:
   - wrapt
   - xlrd
   - xlsxwriter
+  - xgboost
+  - jieba
+  - kreas
   - xlwt
   - xz
   - yaml
